@@ -1,5 +1,8 @@
 body {
     text-align: center;
+    background-color: lightgray;
+    font-family: 'Truculenta', sans-serif;
+    padding-top: 25px;
 }
 
 span.square {
